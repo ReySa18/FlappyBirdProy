@@ -84,7 +84,7 @@ public class Constant {
     public static final String NOTICE_IMG_PATH = "src\\main\\resources\\image\\startmod.png";
     public static final String SCORE_IMG_PATH = "src/main/resources/image/score.png";
     public static final String OVER_IMG_PATH = "src/main/resources/image/over.png";
-    public static final String AGAIN_IMG_PATH = "src/main/resources/image/again.png";
+    public static final String AGAIN_IMG_PATH = "src\\main\\resources\\image\\againmod.png";
 
     //Game score font attributes
     public static final Font SCORE_FONT = new Font("Times New Roman",Font.BOLD,24);
